@@ -60,6 +60,8 @@ Blender modelling
 Performance optimisation
 Scrum Master responsibilities and team coordination
 
+(will later link to the project rapport)
+
 ## Contact
 
 💼 [LinkedIn](https://www.linkedin.com/in/rebecca-arkhed-4105b920a/)  
