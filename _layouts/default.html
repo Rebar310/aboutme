@@ -1,21 +1,82 @@
-<header>
+<!DOCTYPE html>
 
-  <h1>
-    <a href="{{ "/" | absolute_url }}">
-      {{ site.title | default: site.github.repository_name }}
-    </a>
-  </h1>
+<html lang="{{ site.lang | default: "en-US" }}">
 
-  {% if site.logo %}
-    <img src="{{ site.logo | relative_url }}" alt="Rebecca Arkhed" />
-  {% endif %}
+<head>
+  <meta charset="UTF-8">
 
-  <h3>About Me</h3>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <p>
-    Fourth-year M.Sc. student in Media Technology and Engineering at
-    Linköping University. I am interested in software development,
-    computer graphics and interactive technology.
-  </p>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <h3>Contact</h3>
+  {% seo %}
+
+  <link rel="stylesheet"
+        href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+
+  {% include head-custom.html %}
+</head>
+
+<body>
+
+<div class="wrapper">
+
+  <header>
+
+    <h1>
+      <a href="{{ "/" | absolute_url }}">
+        {{ site.title | default: site.github.repository_name }}
+      </a>
+    </h1>
+
+    {% if site.logo %}
+      <img src="{{ site.logo | relative_url }}" alt="Rebecca Arkhed">
+    {% endif %}
+
+
+    <h3>About Me</h3>
+
+    <p>
+      Fourth-year M.Sc. student in Media Technology and Engineering at
+      Linköping University, currently in the first year of master's-level studies.
+      I am interested in software development, computer graphics and interactive
+      technology.
+    </p>
+
+
+    <h3>Contact</h3>
+
+    <p class="contact-links">
+      💼 <a href="DIN-LINKEDIN-LÄNK">LinkedIn</a><br>
+      💻 <a href="DIN-GITHUB-LÄNK">GitHub</a><br>
+      ✉️ <a href="mailto:DIN-MAIL">Email</a>
+    </p>
+
+  </header>
+
+
+  <section>
+
+    {{ content }}
+
+  </section>
+
+
+  <footer>
+
+    <p>
+      <small>
+        Hosted on GitHub Pages
+      </small>
+    </p>
+
+  </footer>
+
+</div>
+
+
+<script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+
+</body>
+
+</html>
