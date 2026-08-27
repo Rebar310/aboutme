@@ -1,2 +1,7 @@
-# aboutme
-Hemsida med portfolio med mina projekt
+# Civil Enginner in Media Technology 
+
+### Education 
+
+### Work Experience 
+
+### Projects 
