@@ -2,15 +2,11 @@
 
 ## About Me
 
-I am a fourth-year M.Sc. student in Media Technology and Engineering at Linköping University, currently in the first year of my master's-level studies. I enjoy combining technical problem-solving with creative development and have a particular interest in 3D modelling and software development.
+I am a fourth-year M.Sc. student in Media Technology and Engineering at Linköping University, currently in the first year of my master's-level studies. My main interests include 3D modelling, software development and creative technical problem-solving, and I especially enjoy projects where technology and visual development come together. I have a broad interest in programming and like exploring different languages, technologies and ways of solving problems. Learning new things is something I genuinely enjoy, and I am always happy to take on a new challenge that allows me to develop both technically and personally.
 
-I am interested in a wide range of programming areas and enjoy exploring new technologies and ways of solving problems. I genuinely enjoy learning new things, and I am always happy to take on a challenge that allows me to develop both technically and personally.
+Beyond programming and 3D development, I am particularly interested in artificial intelligence, robotics and autonomous vehicles, as I find the combination of software, intelligent systems and real-world applications especially exciting. Project management is another area that interests me, especially the coordination, planning and collaboration involved in larger development projects.
 
-I am also interested in project management and will further develop my skills in this area through a project management course during my fourth year. Other areas that especially interest me include artificial intelligence, robotics and autonomous vehicles, as I find the combination of software, intelligent systems and real-world applications particularly exciting.
-
-I am currently open to opportunities to carry out my Master's thesis in collaboration with a company. I am also very interested in summer work within Media Technology, software development or related technical fields. Ideally, I would love for such an opportunity to grow into a longer-term collaboration and potentially continued employment after completing my studies.
-
-I am always happy to connect with companies working within these areas, as well as organisations offering opportunities where I can learn, contribute and take on new challenges.
+At the moment, I am open to opportunities for both summer work and a future Master's thesis in collaboration with a company, preferably within Media Technology, software development, 3D, AI or other related technical fields. I am also very open to opportunities outside these areas where I can learn, contribute and take on new challenges. Ideally, I would love for such an opportunity to grow into a longer-term collaboration and potentially continued employment after completing my studies, and I am always happy to connect with companies interested in working together.
 
 ---
 
