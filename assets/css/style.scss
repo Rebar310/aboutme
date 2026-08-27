@@ -19,3 +19,16 @@ footer {
   display: none;
 }
 
+@media screen and (min-width: 961px) {
+  header {
+    max-height: calc(100vh - 80px);
+    overflow-y: auto;
+    padding-right: 12px;
+
+    /* Gör scrollningen mjuk på touch-enheter */
+    -webkit-overflow-scrolling: touch;
+
+    /* Diskret scrollbar */
+    scrollbar-width: thin;
+  }
+}
