@@ -39,7 +39,7 @@ Responsibilities include:
 - Problem solving and maintaining a high level of customer service
   
 ## Projects 
-Multiplayer Game for WisDome
+### Multiplayer Game for WisDome
 
 Bachelor's Thesis Project | Unreal Engine 5 | C++ | Blueprints | WebSockets | Blender
 
