@@ -59,3 +59,9 @@ Development of a web-based administration interface
 Blender modelling
 Performance optimisation
 Scrum Master responsibilities and team coordination
+
+## Contact
+
+💼 [LinkedIn](https://www.linkedin.com/in/rebecca-arkhed-4105b920a/)  
+💻 [GitHub](https://github.com/Rebar310)  
+✉️ [Email](rebecca.arkhed@telia.com)
